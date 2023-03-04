@@ -1,0 +1,8 @@
+div{
+    width: 200px;
+    height: 200px;
+    border-top: 5px solid blue;
+    border-bottom: 5px solid blue;
+    border-left: 3px dashed yellow;
+    border-right: 7px double yellow;
+}
